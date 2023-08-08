@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RadioButtonStyle" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:button">@null</item>
+        <item name="android:drawableRight">@drawable/custom_radio_button</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">32dp</item>
+        <!-- Adjust padding values to meet your needs -->
+    </style>
+
+</resources>
